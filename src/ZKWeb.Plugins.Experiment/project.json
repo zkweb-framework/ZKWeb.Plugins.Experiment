@@ -1,0 +1,17 @@
+{
+	"version": "1.0.0-*",
+	"dependencies": {
+		"ZKWeb": "1.2.0-final",
+		"System.ComponentModel.Annotations": "4.3.0",
+		"StackExchange.Redis": "1.1.608"
+	},
+	"frameworks": {
+		"net461": {},
+		"netstandard1.6": {
+			"buildOptions": { "define": [ "NETCORE" ] }
+		}
+	},
+	"buildOptions": {
+		"xmlDoc": false
+	}
+}
