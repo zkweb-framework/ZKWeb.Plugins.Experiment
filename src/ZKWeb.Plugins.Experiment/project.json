@@ -1,7 +1,7 @@
 {
 	"version": "1.0.0-*",
 	"dependencies": {
-		"ZKWeb": "1.2.0-final",
+					"ZKWeb": "1.9.0.1",
 		"System.ComponentModel.Annotations": "4.3.0",
 		"StackExchange.Redis": "1.1.608"
 	},
